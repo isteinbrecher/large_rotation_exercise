@@ -6,4 +6,4 @@ dependencies:
   - python=3.12
   - pip
   - pip:
-      - git+https://github.com/isteinbrecher/large_rotation_exercise.git
+      - git+https://github.com/imcs-compsim/meshpy.git
