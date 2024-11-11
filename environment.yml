@@ -1,0 +1,9 @@
+name: meshpy_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - git+https://github.com/isteinbrecher/large_rotation_exercise.git
